@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!-- Acesta este un fisier de test -->
+<catalog>
+	<mm id="aa"/>
+	<book id="bk101">
+		<author>Gambardella, Matthew</author>
+		<title>XML Developer’s Guide</title>
+		<genre>Computer</genre>
+		<price unit="euro">44.95</price>
+		<publish_date>2000-10-01</publish_date>
+		<description>An in-depth look at creating applications with XML.</description>
+	</book>
+	<book id="bk102">
+		<author>Ralls, Kim</author>
+		<title>Midnight Rain</title>
+		<genre>Fantasy</genre>
+		<price unit="euro">5.95</price>
+		<publish_date>2000-12-16</publish_date>
+	</book>
+	<book id="bk103">
+		<author>Corets, Eva</author>
+		<title>Maeve Ascendant</title>
+		<genre>Fantasy</genre>
+		<price unit="euro">5.95</price>
+		<publish_date>2000-11-17</publish_date>
+	</book>
+	<!-- <book id="bk111">
+		<author>O’Brien, Tim</author>
+		<title>MSXML3: A Comprehensive Guide</title>
+		<genre>Computer</genre>
+		3<price>36.95</price>
+		<publish_date>2000-12-01</publish_date>
+	</book> -->
+</catalog>

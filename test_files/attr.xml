@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<person gender="female">
+<firstname>Anna</firstname>
+<lastname>Smith</lastname>
+<date_of_birth format="DD/MM/YY">15.06.2000</date_of_birth>
+</person>
